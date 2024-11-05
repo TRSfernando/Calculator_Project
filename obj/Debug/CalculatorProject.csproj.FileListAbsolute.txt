@@ -1,0 +1,10 @@
+C:\Users\ranee\source\repos\CalculatorProject\bin\Debug\CalculatorProject.exe.config
+C:\Users\ranee\source\repos\CalculatorProject\bin\Debug\CalculatorProject.exe
+C:\Users\ranee\source\repos\CalculatorProject\bin\Debug\CalculatorProject.pdb
+C:\Users\ranee\source\repos\CalculatorProject\obj\Debug\CalculatorProject.csproj.AssemblyReference.cache
+C:\Users\ranee\source\repos\CalculatorProject\obj\Debug\CalculatorProject.Calculator.resources
+C:\Users\ranee\source\repos\CalculatorProject\obj\Debug\CalculatorProject.Properties.Resources.resources
+C:\Users\ranee\source\repos\CalculatorProject\obj\Debug\CalculatorProject.csproj.GenerateResource.cache
+C:\Users\ranee\source\repos\CalculatorProject\obj\Debug\CalculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\ranee\source\repos\CalculatorProject\obj\Debug\CalculatorProject.exe
+C:\Users\ranee\source\repos\CalculatorProject\obj\Debug\CalculatorProject.pdb
